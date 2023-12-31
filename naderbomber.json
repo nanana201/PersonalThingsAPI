@@ -1,1 +1,16 @@
-
+{
+  "devices": [
+    {
+      "id": "ABC",
+      "status": 0
+    },
+    {
+      "id": "XYZ",
+      "status": 1
+    },
+    {
+      "id": "123",
+      "status": 0
+    }
+  ]
+}
